@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicPaySimplificado.Api", "PicPaySimplificado.Api\PicPaySimplificado.Api.csproj", "{86E453BB-30B6-4595-BFA4-6758F37CB0B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicPaySimplificado.Application", "PicPaySimplificado.Application\PicPaySimplificado.Application.csproj", "{7E1C0518-255D-40E8-9D1A-27EFD489D9B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicPaySimplificado.Domain", "PicPaySimplificado.Domain\PicPaySimplificado.Domain.csproj", "{5FECDDA2-3400-4AA4-9194-5C73571A9972}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicPaySimplificado.Infra", "PicPaySimplificado.Infra\PicPaySimplificado.Infra.csproj", "{59273A9D-C36C-47FD-A1EB-AAB5E62D74F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E453BB-30B6-4595-BFA4-6758F37CB0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E453BB-30B6-4595-BFA4-6758F37CB0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E453BB-30B6-4595-BFA4-6758F37CB0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E453BB-30B6-4595-BFA4-6758F37CB0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1C0518-255D-40E8-9D1A-27EFD489D9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1C0518-255D-40E8-9D1A-27EFD489D9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1C0518-255D-40E8-9D1A-27EFD489D9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1C0518-255D-40E8-9D1A-27EFD489D9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FECDDA2-3400-4AA4-9194-5C73571A9972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FECDDA2-3400-4AA4-9194-5C73571A9972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FECDDA2-3400-4AA4-9194-5C73571A9972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FECDDA2-3400-4AA4-9194-5C73571A9972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59273A9D-C36C-47FD-A1EB-AAB5E62D74F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59273A9D-C36C-47FD-A1EB-AAB5E62D74F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59273A9D-C36C-47FD-A1EB-AAB5E62D74F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59273A9D-C36C-47FD-A1EB-AAB5E62D74F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55656CD-1052-4C3E-B817-C30E71FEF45A}
+	EndGlobalSection
+EndGlobal
